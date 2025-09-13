@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  14 SEP 2025 00:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  14 SEP 2025 00:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1121,7 +1121,7 @@ Package hyperref Info: Link coloring ON on input line 29.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-<setup/Pictures/A01.C01.01_Front_Billede.png, id=230, 10037.5pt x 2762.32pt>
+<setup/Pictures/A01.C01.01_Front_Billede.png, id=240, 10037.5pt x 2762.32pt>
 File: setup/Pictures/A01.C01.01_Front_Billede.png Graphic file (type png)
 <use setup/Pictures/A01.C01.01_Front_Billede.png>
 Package pdftex.def Info: setup/Pictures/A01.C01.01_Front_Billede.png  used on input line 32.
@@ -1265,7 +1265,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 
 
 pdfTeX warning: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf, id=353, 495.14487pt x 82.34865pt>
+<../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf, id=366, 495.14487pt x 82.34865pt>
 File: ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf Graphic file (type pdf)
 <use ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf  used on input line 6.
@@ -1334,28 +1334,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--38
 
 ) (mainstuff/Magi.tex
 
-[13]
+[13] (../Evne-Ordbog/Generelt om Magi.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 7.
+(hyperref)                be the same. Added a new anchor on input line 2.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--17
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--28
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
@@ -1366,72 +1351,96 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--28
 
 ]
 
-[15]
-Underfull \hbox (badness 1831) in paragraph at lines 52--52
+[15])
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+
+ []
+
+
+
+[17]
+Underfull \hbox (badness 1831) in paragraph at lines 53--53
 []|\T1/pplx/m/n/10.95 Vindens Be-skyt-tel-
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 54--54
+Underfull \hbox (badness 2799) in paragraph at lines 55--55
 []|\T1/pplx/m/n/10.95 Vandfaldets Me-di-
  []
 
 
-Overfull \hbox (62.41296pt too wide) in paragraph at lines 45--57
+Overfull \hbox (62.41296pt too wide) in paragraph at lines 46--58
  [][] 
  []
 
 
 
-[16
+[18
 
 
 ]
-
-[17]
-
-[18]
 
 [19]
 
 [20]
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 187--203
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 187--203
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 187--203
-
- []
-
-
 
 [22]
-Overfull \hbox (62.41296pt too wide) in paragraph at lines 210--222
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 188--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--204
+
+ []
+
+
+
+[24]
+Overfull \hbox (62.41296pt too wide) in paragraph at lines 211--223
  [][] 
  []
 
 
 
-[23
+[25
 
 
 ]
 
-[24]
-
-[25]
-
-[26]) (setup/GenerelleEvner.tex
+[26]
 
 [27]
+
+[28]) (setup/GenerelleEvner.tex
+
+[29]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 9.37807pt on input line 29.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
@@ -1461,7 +1470,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--37
 
 (setup/Evner/Bonk.tex
 
-[28
+[30
 
 
 ])
@@ -1486,30 +1495,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
 
 
-[29]
+[31]
 Underfull \hbox (badness 10000) in paragraph at lines 11--14
 
  []
 
 
 
-[30]
+[32]
 
-[31]
+[33]
 Underfull \hbox (badness 10000) in paragraph at lines 64--68
 
  []
 
 
 
-[32]) (setup/Evner/Læse og skrive.tex)
+[34]) (setup/Evner/Læse og skrive.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--49
 
  []
 
 (setup/Evner/Minearbejder.tex) (setup/Evner/Påfør Gift.tex) (setup/Evner/Slagsbror Niv 1.tex) (setup/Evner/Slagsbror Niv 2.tex
 
-[33]) (setup/Evner/Slagsbror Niv 3.tex) (setup/Evner/Speciale.tex
+[35]) (setup/Evner/Slagsbror Niv 3.tex) (setup/Evner/Speciale.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
@@ -1521,9 +1530,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
 ) (setup/Evner/Universets Centrum.tex)
 
-[34] (setup/Evner/Urtesamler.tex)) (setup/Drikke.tex
+[36] (setup/Evner/Urtesamler.tex)) (setup/Drikke.tex
 
-[35]
+[37]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 16.
@@ -1550,14 +1559,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--25
 
 
 
-[36
+[38
 
 
 ]
 
-[37]
+[39]
 
-[38
+[40
 
 
 ]
@@ -1710,7 +1719,7 @@ Overfull \hbox (19.72469pt too wide) in alignment at lines 60--84
  [] [] [] [] [] 
  []
 
-[39
+[41
 
 
 ])
@@ -1719,7 +1728,7 @@ Overfull \hbox (19.72469pt too wide) in alignment at lines 60--84
 
 
 
-[40] 
+[42] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main.aux)
  ***********
@@ -1727,20 +1736,20 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B31A69CCF85C907926A5B56BB518DF63;8985.
+(rerunfilecheck)             Checksum: 57D1A3A037E8962D15867F0F618C858E;9427.
  ) 
 Here is how much of TeX's memory you used:
- 34138 strings out of 468149
- 647072 string characters out of 5431082
+ 34159 strings out of 468149
+ 647460 string characters out of 5431082
  1086934 words of memory out of 5000000
- 61886 multiletter control sequences out of 15000+600000
+ 61890 multiletter control sequences out of 15000+600000
  684522 words of font info for 137 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  104i,17n,104p,911b,928s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (41 pages, 4417479 bytes).
+Output written on main.pdf (43 pages, 4424941 bytes).
 PDF statistics:
- 667 PDF objects out of 1000 (max. 8388607)
- 86 named destinations out of 1000 (max. 500000)
- 543 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 701 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
+ 567 words of extra memory for PDF output out of 10000 (max. 10000000)
 
