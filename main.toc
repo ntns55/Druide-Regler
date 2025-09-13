@@ -20,47 +20,47 @@
 \contentsline {subsection}{Naturens Essens}{11}{figure.caption.13}%
 \contentsline {subsection}{Naturens Magi Niv. 3}{11}{figure.caption.13}%
 \contentsline {subsection}{Urtekundskab}{11}{figure.caption.13}%
-\contentsline {chapter}{Niveau 4}{12}{chapter*.14}%
-\contentsline {section}{Evne beskrivelse for Naturens sværd}{12}{section*.15}%
-\contentsline {subsection}{Ekstra NK Niv. 3}{12}{section*.15}%
-\contentsline {subsection}{Esselaias Velsignelse}{12}{section*.15}%
-\contentsline {subsection}{Naturens Magi Niv. 4}{13}{section*.15}%
-\contentsline {section}{Evne beskrivelse for Naturens skjold}{13}{section*.15}%
-\contentsline {subsection}{Ekstra LP Niv. 2}{13}{section*.16}%
-\contentsline {subsection}{Naturens Velsignelse}{13}{section*.16}%
-\contentsline {subsection}{Naturlig Harmoni}{13}{section*.16}%
-\contentsline {chapter}{Magi}{14}{chapter*.17}%
-\contentsline {section}{At kaste magi som Druide}{14}{section*.18}%
-\contentsline {section}{Magiske stier}{15}{section*.18}%
-\contentsline {chapter}{Livsdruide}{16}{chapter*.19}%
-\contentsline {section}{Jordens Velsignelse}{17}{table.caption.20}%
-\contentsline {section}{Naturens Beskyttelse}{18}{table.caption.20}%
-\contentsline {section}{Naturens Ly}{19}{table.caption.20}%
-\contentsline {section}{Naturens Vitalitet}{21}{table.caption.20}%
-\contentsline {chapter}{Kaosdruide}{23}{chapter*.21}%
-\contentsline {section}{Moder Naturs Kærlighed}{23}{table.caption.22}%
-\contentsline {section}{Naturens Beskyttelse}{24}{table.caption.22}%
-\contentsline {section}{Naturens Kaos}{25}{table.caption.22}%
-\contentsline {section}{Naturens hævn}{26}{table.caption.22}%
-\contentsline {chapter}{Generelle evner}{28}{chapter*.23}%
-\contentsline {section}{Evne beskrivelse}{28}{table.caption.24}%
-\contentsline {subsection}{6. sans Niv. 1}{28}{section*.25}%
-\contentsline {subsection}{6. sans Niv. 2}{29}{section*.25}%
-\contentsline {subsection}{Bonk}{29}{section*.25}%
-\contentsline {subsection}{Bære person}{29}{section*.25}%
-\contentsline {subsection}{Kamp med tohåndsvåben}{29}{section*.25}%
-\contentsline {subsection}{Førstehjælp}{29}{section*.25}%
-\contentsline {subsection}{Lave Artefakter}{30}{section*.25}%
-\contentsline {subsection}{Læse og skrive}{33}{section*.25}%
-\contentsline {subsection}{Minearbejder}{33}{section*.25}%
-\contentsline {subsection}{Påfør gift}{33}{section*.25}%
-\contentsline {subsection}{Slagsbror Niv. 1}{34}{section*.25}%
-\contentsline {subsection}{Slagsbror Niv. 2}{34}{section*.25}%
-\contentsline {subsection}{Slagsbror Niv. 2}{34}{section*.25}%
-\contentsline {subsection}{Speciale}{34}{section*.25}%
-\contentsline {subsection}{Universets Centrum}{35}{section*.25}%
-\contentsline {subsection}{Urtesamler}{35}{section*.25}%
-\contentsline {chapter}{Drikke}{36}{chapter*.26}%
-\contentsline {section}{Hvordan man brygger}{36}{section*.27}%
-\contentsline {chapter}{Opskrifter}{38}{chapter*.28}%
-\contentsline {chapter}{Ingredienser}{39}{chapter*.30}%
+\contentsline {chapter}{Niveau 4}{12}{chapter*.15}%
+\contentsline {section}{Evne beskrivelse for Naturens sværd}{12}{section*.16}%
+\contentsline {subsection}{Ekstra NK Niv. 3}{12}{section*.16}%
+\contentsline {subsection}{Esselaias Velsignelse}{12}{section*.16}%
+\contentsline {subsection}{Naturens Magi Niv. 4}{13}{section*.16}%
+\contentsline {section}{Evne beskrivelse for Naturens skjold}{13}{section*.16}%
+\contentsline {subsection}{Ekstra LP Niv. 2}{13}{section*.17}%
+\contentsline {subsection}{Naturens Velsignelse}{13}{section*.17}%
+\contentsline {subsection}{Naturlig Harmoni}{13}{section*.17}%
+\contentsline {chapter}{Magi}{14}{chapter*.18}%
+\contentsline {section}{At kaste magi som Druide}{14}{section*.19}%
+\contentsline {section}{Magiske stier}{15}{section*.19}%
+\contentsline {chapter}{Livsdruide}{16}{chapter*.20}%
+\contentsline {section}{Jordens Velsignelse}{17}{table.caption.21}%
+\contentsline {section}{Naturens Beskyttelse}{18}{table.caption.21}%
+\contentsline {section}{Naturens Ly}{19}{table.caption.21}%
+\contentsline {section}{Naturens Vitalitet}{21}{table.caption.21}%
+\contentsline {chapter}{Kaosdruide}{23}{chapter*.22}%
+\contentsline {section}{Moder Naturs Kærlighed}{23}{table.caption.23}%
+\contentsline {section}{Naturens Beskyttelse}{24}{table.caption.23}%
+\contentsline {section}{Naturens Kaos}{25}{table.caption.23}%
+\contentsline {section}{Naturens hævn}{26}{table.caption.23}%
+\contentsline {chapter}{Generelle evner}{28}{chapter*.24}%
+\contentsline {section}{Evne beskrivelse}{28}{table.caption.25}%
+\contentsline {subsection}{6. sans Niv. 1}{28}{section*.26}%
+\contentsline {subsection}{6. sans Niv. 2}{29}{section*.26}%
+\contentsline {subsection}{Bonk}{29}{section*.26}%
+\contentsline {subsection}{Bære person}{29}{section*.26}%
+\contentsline {subsection}{Kamp med tohåndsvåben}{29}{section*.26}%
+\contentsline {subsection}{Førstehjælp}{29}{section*.26}%
+\contentsline {subsection}{Lave Artefakter}{30}{section*.26}%
+\contentsline {subsection}{Læse og skrive}{33}{section*.26}%
+\contentsline {subsection}{Minearbejder}{33}{section*.26}%
+\contentsline {subsection}{Påfør gift}{33}{section*.26}%
+\contentsline {subsection}{Slagsbror Niv. 1}{34}{section*.26}%
+\contentsline {subsection}{Slagsbror Niv. 2}{34}{section*.26}%
+\contentsline {subsection}{Slagsbror Niv. 2}{34}{section*.26}%
+\contentsline {subsection}{Speciale}{34}{section*.26}%
+\contentsline {subsection}{Universets Centrum}{35}{section*.26}%
+\contentsline {subsection}{Urtesamler}{35}{section*.26}%
+\contentsline {chapter}{Drikke}{36}{chapter*.27}%
+\contentsline {section}{Hvordan man brygger}{36}{section*.28}%
+\contentsline {chapter}{Opskrifter}{38}{chapter*.29}%
+\contentsline {chapter}{Ingredienser}{39}{chapter*.31}%
