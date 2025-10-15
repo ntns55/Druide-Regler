@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1760513417.95271 "c:/Users/niels/Documents/GitHub/Druide-Regler/main.tex" "main.pdf" "main" 1760513421.12962 0
+["pdflatex"] 1760515182.74605 "c:/Users/niels/Documents/GitHub/Druide-Regler/main.tex" "main.pdf" "main" 1760515186.00074 0
   "../Evne-Ordbog/Drikke.tex" 1757946765 6477 81983a2b7f9565b2d05af019dedc3eb8 ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 1.tex" 1757886439 60 887729619453f26a0297a14b4adf473c ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 2.tex" 1757946765 60 c2db4f9e7b7f62de380bf240d1133100 ""
@@ -288,16 +288,16 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/niels/Documents/GitHub/Druide-Regler/main.tex" 1758741767 1818 2cec4ae18c9c7ed1803ce0fb1b995d48 ""
-  "main.aux" 1760513420 8713 915da0bc74dccdb13cb21f0b6b347a4f "pdflatex"
-  "main.out" 1760513420 8327 af1b77a5841088d77d2930b2e025c6d4 "pdflatex"
+  "main.aux" 1760515185 8713 915da0bc74dccdb13cb21f0b6b347a4f "pdflatex"
+  "main.out" 1760515185 8327 af1b77a5841088d77d2930b2e025c6d4 "pdflatex"
   "main.tex" 1758741767 1818 2cec4ae18c9c7ed1803ce0fb1b995d48 ""
-  "main.toc" 1760513420 4001 2555e371503ed74112e0419756fcc59b "pdflatex"
+  "main.toc" 1760515185 4001 2555e371503ed74112e0419756fcc59b "pdflatex"
   "mainstuff/Indledning.tex" 1758741767 1156 738062748429fdde9489e7cee43d4ce2 ""
-  "mainstuff/Magi.tex" 1760513417 20867 2a9397a8f80a0a4228a4a6c82a3cef7a ""
-  "mainstuff/Niv1.tex" 1760512126 1110 8255985765f26ac2621d314f6fd8cff0 ""
-  "mainstuff/Niv2.tex" 1760512751 1012 412cd1915bca70ced6983e464d5a5800 ""
-  "mainstuff/Niv3.tex" 1760512763 1506 0c699c3582915989539dfefdcc11c55f ""
-  "mainstuff/Niv4.tex" 1760513164 1801 a998e51d27a2db53711809e9ed5898ec ""
+  "mainstuff/Magi.tex" 1760515178 20867 2a9397a8f80a0a4228a4a6c82a3cef7a ""
+  "mainstuff/Niv1.tex" 1760515178 1110 8255985765f26ac2621d314f6fd8cff0 ""
+  "mainstuff/Niv2.tex" 1760515178 1012 412cd1915bca70ced6983e464d5a5800 ""
+  "mainstuff/Niv3.tex" 1760515178 1506 0c699c3582915989539dfefdcc11c55f ""
+  "mainstuff/Niv4.tex" 1760515178 1801 a998e51d27a2db53711809e9ed5898ec ""
   "setup/Pictures/A01.C01.01_Front_Billede.png" 1754339043 6403955 f084c9143d1fcc3045f3c66faf856f1d ""
   (generated)
   "main.aux"
