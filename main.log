@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  15 OCT 2025 20:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  16 OCT 2025 18:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1183,7 +1183,7 @@ Package hyperref Info: Link coloring ON on input line 29.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-<setup/Pictures/A01.C01.01_Front_Billede.png, id=302, 10037.5pt x 2762.32pt>
+<setup/Pictures/A01.C01.01_Front_Billede.png, id=294, 10037.5pt x 2762.32pt>
 File: setup/Pictures/A01.C01.01_Front_Billede.png Graphic file (type png)
 <use setup/Pictures/A01.C01.01_Front_Billede.png>
 Package pdftex.def Info: setup/Pictures/A01.C01.01_Front_Billede.png  used on input line 32.
@@ -1273,7 +1273,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--21
 (../Evne-Ordbog/Læse og skrive/Læse og skrive Elvisk.tex
 
 pdfTeX warning: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf, id=398, 495.14487pt x 82.34865pt>
+<../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf, id=388, 495.14487pt x 82.34865pt>
 File: ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf Graphic file (type pdf)
 <use ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf  used on input line 5.
@@ -1385,209 +1385,153 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--17
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--28
+Underfull \hbox (badness 10000) in paragraph at lines 21--27
 
  []
 
 
 
 [18]
-
-[19]
 Kapitel 7.
 
-Underfull \hbox (badness 4899) in paragraph at lines 39--39
-[]|\T1/pplx/m/n/10.95 Naturens Be-
+Underfull \hbox (badness 7133) in paragraph at lines 41--41
+[]|\T1/pplx/m/n/10.95 Vandfaldets Me-di-
  []
 
 
-Underfull \hbox (badness 6493) in paragraph at lines 39--39
-[]|\T1/pplx/m/n/10.95 Naturlig L�-
+Underfull \hbox (badness 2671) in paragraph at lines 42--42
+[]|\T1/pplx/m/n/10.95 Rosens Hem-me-lig-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[]|\T1/pplx/m/n/10.95 Vindens Be-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[]|\T1/pplx/m/n/10.95 Beroligende
- []
-
-
-Underfull \hbox (badness 4303) in paragraph at lines 41--41
-[]|\T1/pplx/m/n/10.95 Tvunget Pas-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
-[]|\T1/pplx/m/n/10.95 Inspirerende
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
-[]|\T1/pplx/m/n/10.95 B�gens
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--42
-[]|\T1/pplx/m/n/10.95 Tvunget Do-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--42
-[]|\T1/pplx/m/n/10.95 Vandfaldets
- []
-
-
-Underfull \hbox (badness 1931) in paragraph at lines 43--43
-[]|\T1/pplx/m/n/10.95 Tvunget Ven-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-[]|\T1/pplx/m/n/10.95 M�nens Re-
- []
-
-
-Underfull \hbox (badness 3078) in paragraph at lines 43--43
-[]|\T1/pplx/m/n/10.95 Rosens Hem-
- []
-
-
-Overfull \hbox (74.38315pt too wide) in paragraph at lines 33--45
+Overfull \hbox (15.84937pt too wide) in paragraph at lines 32--44
  [][] 
  []
 
 
 
-[20
+[19
 
 
 ]
 
+[20]
+
 [21]
+Underfull \hbox (badness 10000) in paragraph at lines 84--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--123
+
+ []
+
+
 
 [22]
+Underfull \hbox (badness 10000) in paragraph at lines 126--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--137
+
+ []
+
+
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 116--127
+Underfull \hbox (badness 10000) in paragraph at lines 143--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--127
+Underfull \hbox (badness 10000) in paragraph at lines 143--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--127
+Underfull \hbox (badness 10000) in paragraph at lines 160--174
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--155
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--155
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--155
+Underfull \hbox (badness 10000) in paragraph at lines 160--174
 
  []
 
 
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 158--169
+Underfull \hbox (badness 10000) in paragraph at lines 177--191
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--169
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--169
+Underfull \hbox (badness 10000) in paragraph at lines 177--191
 
  []
 
 
 
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 175--189
+Underfull \hbox (badness 10000) in paragraph at lines 195--209
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--189
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--206
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--206
+Underfull \hbox (badness 10000) in paragraph at lines 195--209
 
  []
 
 
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 209--223
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 209--223
-
- []
-
-
-
-[27]
-Underfull \hbox (badness 10000) in paragraph at lines 227--241
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--241
-
- []
-
-
+[27]) (../Evne-Ordbog/GenerelleEvner/GenerelleEvnerMedMagiIngenTohåndsvåben.tex
 
 [28]
-
-[29]
-
-[30]) (../Evne-Ordbog/GenerelleEvner/GenerelleEvnerMedMagiIngenTohåndsvåben.tex
-
-[31]
 Kapitel 8.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 9.37807pt on input line 27.
@@ -1608,7 +1552,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--32
 
 
 
-[32
+[29
 
 
 ] (../Evne-Ordbog/GenerelleEvner/Evner/6sansNiv2.tex)
@@ -1628,7 +1572,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--38
 
 (../Evne-Ordbog/GenerelleEvner/Evner/Førstehjælp.tex)
 
-[33] (../Evne-Ordbog/GenerelleEvner/Evner/Lave Artefakter.tex
+[30] (../Evne-Ordbog/GenerelleEvner/Evner/Lave Artefakter.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
@@ -1640,23 +1584,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--13
 
 
 
-[34]
+[31]
 
-[35]
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 63--67
 
  []
 
 
 
-[36]) (../Evne-Ordbog/GenerelleEvner/Evner/Læse og skrive.tex)
+[33]) (../Evne-Ordbog/GenerelleEvner/Evner/Læse og skrive.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 2--44
 
  []
 
 (../Evne-Ordbog/GenerelleEvner/Evner/Minearbejder.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Påfør Gift.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 2.tex
 
-[37]) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex
+[34]) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -1668,9 +1612,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
 ) (../Evne-Ordbog/GenerelleEvner/Evner/Universets Centrum.tex)
 
-[38] (../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex)) (../Evne-Ordbog/Drikke.tex
+[35] (../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex)) (../Evne-Ordbog/Drikke.tex
 
-[39]
+[36]
 Kapitel 9.
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--23
@@ -1694,16 +1638,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--23
 
 
 
-[40
+[37
 
 
 ]
 
-[41]
+[38]
 Kapitel 10.
 
 
-[42
+[39
 
 
 ]
@@ -1858,7 +1802,7 @@ Overfull \hbox (19.72469pt too wide) in alignment at lines 56--80
  [] [] [] [] [] 
  []
 
-[43
+[40
 
 
 ]) (../Evne-Ordbog/Generelt om Magi.tex
@@ -1868,17 +1812,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
 
 
-[44]
+[41]
 
-[45])
+[42])
 
-[46]
+[43]
 \tf@thm=\write7
 \openout7 = `main.thm'.
 
 
 
-[47] 
+[44] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main.aux)
  ***********
@@ -1886,20 +1830,20 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0CCCC4D046C2F41C34DE06998C0A8CCB;8497.
+(rerunfilecheck)             Checksum: 80492ED2E035D6668933684984FFB1EF;8270.
  ) 
 Here is how much of TeX's memory you used:
- 37159 strings out of 468149
- 740372 string characters out of 5431082
+ 37146 strings out of 468149
+ 740157 string characters out of 5431082
  1215934 words of memory out of 5000000
- 64797 multiletter control sequences out of 15000+600000
+ 64789 multiletter control sequences out of 15000+600000
  682411 words of font info for 134 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  121i,17n,124p,911b,737s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (48 pages, 4429949 bytes).
+Output written on main.pdf (45 pages, 4424689 bytes).
 PDF statistics:
- 793 PDF objects out of 1000 (max. 8388607)
- 147 named destinations out of 1000 (max. 500000)
- 687 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 769 PDF objects out of 1000 (max. 8388607)
+ 142 named destinations out of 1000 (max. 500000)
+ 671 words of extra memory for PDF output out of 10000 (max. 10000000)
 
