@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  16 OCT 2025 18:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  4 NOV 2025 09:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1550,12 +1550,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--32
 
  []
 
-
+(../Evne-Ordbog/GenerelleEvner/Evner/6sansNiv2.tex
 
 [29
 
 
-] (../Evne-Ordbog/GenerelleEvner/Evner/6sansNiv2.tex)
+])
 Underfull \hbox (badness 10000) in paragraph at lines 2--34
 
  []
@@ -1570,37 +1570,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--38
 
  []
 
-(../Evne-Ordbog/GenerelleEvner/Evner/Førstehjælp.tex)
-
-[30] (../Evne-Ordbog/GenerelleEvner/Evner/Lave Artefakter.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--5
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--13
-
- []
-
-
-
-[31]
-
-[32]
-Underfull \hbox (badness 10000) in paragraph at lines 63--67
-
- []
-
-
-
-[33]) (../Evne-Ordbog/GenerelleEvner/Evner/Læse og skrive.tex)
+(../Evne-Ordbog/GenerelleEvner/Evner/Førstehjælp.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Læse og skrive.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 2--44
 
  []
 
-(../Evne-Ordbog/GenerelleEvner/Evner/Minearbejder.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Påfør Gift.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 2.tex
 
-[34]) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex
+
+[30] (../Evne-Ordbog/GenerelleEvner/Evner/Minearbejder.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Påfør Gift.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 2.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex
+
+[31]) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -1610,11 +1589,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-) (../Evne-Ordbog/GenerelleEvner/Evner/Universets Centrum.tex)
+) (../Evne-Ordbog/GenerelleEvner/Evner/Universets Centrum.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Universets Ydre.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex
 
-[35] (../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex)) (../Evne-Ordbog/Drikke.tex
+[32])) (../Evne-Ordbog/Drikke.tex
 
-[36]
+[33]
 Kapitel 9.
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--23
@@ -1638,16 +1617,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--23
 
 
 
-[37
+[34
 
 
 ]
 
-[38]
+[35]
 Kapitel 10.
 
 
-[39
+[36
 
 
 ]
@@ -1802,7 +1781,7 @@ Overfull \hbox (19.72469pt too wide) in alignment at lines 56--80
  [] [] [] [] [] 
  []
 
-[40
+[37
 
 
 ]) (../Evne-Ordbog/Generelt om Magi.tex
@@ -1812,17 +1791,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
 
 
-[41]
+[38]
 
-[42])
+[39])
 
-[43]
+[40]
 \tf@thm=\write7
 \openout7 = `main.thm'.
 
 
 
-[44] 
+[41] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main.aux)
  ***********
@@ -1830,20 +1809,20 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-11>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 80492ED2E035D6668933684984FFB1EF;8270.
+(rerunfilecheck)             Checksum: D42092E3A70E0F2D03E71FD9532D6B86;8270.
  ) 
 Here is how much of TeX's memory you used:
- 37146 strings out of 468149
- 740157 string characters out of 5431082
+ 37139 strings out of 468149
+ 740050 string characters out of 5431082
  1215934 words of memory out of 5000000
- 64789 multiletter control sequences out of 15000+600000
+ 64786 multiletter control sequences out of 15000+600000
  682411 words of font info for 134 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  121i,17n,124p,911b,737s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (45 pages, 4424689 bytes).
+Output written on main.pdf (42 pages, 4416472 bytes).
 PDF statistics:
- 769 PDF objects out of 1000 (max. 8388607)
- 142 named destinations out of 1000 (max. 500000)
+ 753 PDF objects out of 1000 (max. 8388607)
+ 138 named destinations out of 1000 (max. 500000)
  671 words of extra memory for PDF output out of 10000 (max. 10000000)
 

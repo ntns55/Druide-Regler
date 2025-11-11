@@ -39,26 +39,26 @@
 \contentsline {section}{Naturens Ly}{24}{section*.38}%
 \contentsline {section}{Kaos Født}{28}{section*.39}%
 \contentsline {chapter}{\numberline {8}Generelle evner}{29}{chapter.8}%
-\contentsline {section}{Evne beskrivelse}{30}{section*.41}%
-\contentsline {subsection}{6. sans Niv. 1}{30}{subsection*.42}%
+\contentsline {section}{Evne beskrivelse}{29}{section*.41}%
+\contentsline {subsection}{6. sans Niv. 1}{29}{subsection*.42}%
 \contentsline {subsection}{6. sans Niv. 2}{30}{subsection*.43}%
 \contentsline {subsection}{Bonk}{30}{subsection*.44}%
 \contentsline {subsection}{Bære person}{30}{subsection*.45}%
-\contentsline {subsection}{Førstehjælp}{31}{subsection*.46}%
-\contentsline {subsection}{Lave Artefakter}{31}{subsection*.47}%
-\contentsline {subsection}{Læse og skrive}{34}{subsection*.48}%
-\contentsline {subsection}{Minearbejder}{34}{subsection*.49}%
-\contentsline {subsection}{Påfør gift}{34}{subsection*.50}%
-\contentsline {subsection}{Slagsbror Niv. 1}{35}{subsection*.51}%
-\contentsline {subsection}{Slagsbror Niv. 2}{35}{subsection*.52}%
-\contentsline {subsection}{Slagsbror Niv. 2}{35}{subsection*.53}%
-\contentsline {subsection}{Speciale}{35}{subsection*.54}%
-\contentsline {subsection}{Universets Centrum}{36}{subsection*.55}%
-\contentsline {subsection}{Urtesamler}{36}{subsection*.56}%
-\contentsline {chapter}{\numberline {9}Drikke}{37}{chapter.9}%
-\contentsline {section}{Hvordan man brygger}{37}{section*.57}%
-\contentsline {chapter}{\numberline {10}Opskrifter}{39}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Ingredienser}{40}{chapter.11}%
-\contentsline {section}{Generelle regler om Magi}{41}{section*.59}%
-\contentsline {subsection}{Magiens elve bud}{42}{subsection*.60}%
-\contentsline {subsection}{At kaste magi}{43}{subsection*.61}%
+\contentsline {subsection}{Førstehjælp}{30}{subsection*.46}%
+\contentsline {subsection}{Læse og skrive}{31}{subsection*.47}%
+\contentsline {subsection}{Minearbejder}{31}{subsection*.48}%
+\contentsline {subsection}{Påfør gift}{31}{subsection*.49}%
+\contentsline {subsection}{Slagsbror Niv. 1}{31}{subsection*.50}%
+\contentsline {subsection}{Slagsbror Niv. 2}{32}{subsection*.51}%
+\contentsline {subsection}{Slagsbror Niv. 2}{32}{subsection*.52}%
+\contentsline {subsection}{Speciale}{32}{subsection*.53}%
+\contentsline {subsection}{Universets Centrum}{32}{subsection*.54}%
+\contentsline {subsection}{Universets Ydre}{33}{subsection*.55}%
+\contentsline {subsection}{Urtesamler}{33}{subsection*.56}%
+\contentsline {chapter}{\numberline {9}Drikke}{34}{chapter.9}%
+\contentsline {section}{Hvordan man brygger}{34}{section*.57}%
+\contentsline {chapter}{\numberline {10}Opskrifter}{36}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Ingredienser}{37}{chapter.11}%
+\contentsline {section}{Generelle regler om Magi}{38}{section*.59}%
+\contentsline {subsection}{Magiens elve bud}{39}{subsection*.60}%
+\contentsline {subsection}{At kaste magi}{40}{subsection*.61}%
