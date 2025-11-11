@@ -1,64 +1,34 @@
 \babel@toc {danish}{}\relax 
-\contentsline {chapter}{\numberline {1}Indledning}{5}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Niveau 1}{6}{chapter.2}%
-\contentsline {section}{Evne beskrivelse}{6}{section*.3}%
-\contentsline {subsection}{Ekstra NK Niv. 1}{6}{subsection*.4}%
-\contentsline {subsection}{Læse og skrive Elvisk}{6}{subsection*.5}%
-\contentsline {subsection}{Kaos Født}{7}{subsection*.7}%
-\contentsline {subsection}{Fred Fyldt}{7}{subsection*.8}%
-\contentsline {subsection}{Moders Kald}{7}{subsection*.9}%
-\contentsline {subsection}{Naturens magi Niv. 1}{7}{subsection*.10}%
-\contentsline {chapter}{\numberline {3}Niveau 2}{9}{chapter.3}%
-\contentsline {section}{Evne beskrivelse}{9}{section*.12}%
-\contentsline {subsection}{Ekstra NK Niv. 2}{9}{subsection*.13}%
-\contentsline {subsection}{Fredens Lund}{9}{subsection*.14}%
-\contentsline {subsection}{Kaos Magt}{10}{subsection*.15}%
-\contentsline {subsection}{Naturens magi Niv. 2}{10}{subsection*.16}%
-\contentsline {chapter}{\numberline {4}Niveau 3}{11}{chapter.4}%
-\contentsline {section}{Evne beskrivelse}{11}{section*.18}%
-\contentsline {subsection}{Naturens Essens}{11}{subsection*.19}%
-\contentsline {subsection}{Livets Kaos}{11}{subsection*.20}%
-\contentsline {subsection}{Naturens Fred}{12}{subsection*.21}%
-\contentsline {subsection}{Naturens Magi Niv. 3}{12}{subsection*.22}%
-\contentsline {chapter}{\numberline {5}Niveau 4}{13}{chapter.5}%
-\contentsline {section}{Evne beskrivelse}{13}{section*.24}%
-\contentsline {subsection}{Ekstra NK Niv. 3}{13}{subsection*.25}%
-\contentsline {subsection}{Naturens Velsignelse}{14}{subsection*.26}%
-\contentsline {subsection}{Elementernes Ven}{14}{subsection*.27}%
-\contentsline {subsection}{Naturens Magi Niv. 4}{14}{subsection*.28}%
-\contentsline {subsection}{Livets balance}{14}{subsection*.29}%
-\contentsline {chapter}{\numberline {6}Magi}{15}{chapter.6}%
-\contentsline {section}{Generelle regler om Magi}{15}{section*.30}%
-\contentsline {subsection}{Magiens elve bud}{15}{subsection*.31}%
-\contentsline {subsection}{At kaste magi}{17}{subsection*.32}%
-\contentsline {section}{At kaste magi som Druide}{17}{section*.33}%
-\contentsline {section}{Magiske stier}{18}{section*.34}%
-\contentsline {chapter}{\numberline {7}Magier}{19}{chapter.7}%
-\contentsline {section}{Naturens Beskyttelse}{20}{section*.36}%
-\contentsline {section}{Naturens Lægemiddel}{22}{section*.37}%
-\contentsline {section}{Naturens Ly}{24}{section*.38}%
-\contentsline {section}{Kaos Født}{28}{section*.39}%
-\contentsline {chapter}{\numberline {8}Generelle evner}{29}{chapter.8}%
-\contentsline {section}{Evne beskrivelse}{29}{section*.41}%
-\contentsline {subsection}{6. sans Niv. 1}{29}{subsection*.42}%
-\contentsline {subsection}{6. sans Niv. 2}{30}{subsection*.43}%
-\contentsline {subsection}{Bonk}{30}{subsection*.44}%
-\contentsline {subsection}{Bære person}{30}{subsection*.45}%
-\contentsline {subsection}{Førstehjælp}{30}{subsection*.46}%
-\contentsline {subsection}{Læse og skrive}{31}{subsection*.47}%
-\contentsline {subsection}{Minearbejder}{31}{subsection*.48}%
-\contentsline {subsection}{Påfør gift}{31}{subsection*.49}%
-\contentsline {subsection}{Slagsbror Niv. 1}{31}{subsection*.50}%
-\contentsline {subsection}{Slagsbror Niv. 2}{32}{subsection*.51}%
-\contentsline {subsection}{Slagsbror Niv. 2}{32}{subsection*.52}%
-\contentsline {subsection}{Speciale}{32}{subsection*.53}%
-\contentsline {subsection}{Universets Centrum}{32}{subsection*.54}%
-\contentsline {subsection}{Universets Ydre}{33}{subsection*.55}%
-\contentsline {subsection}{Urtesamler}{33}{subsection*.56}%
-\contentsline {chapter}{\numberline {9}Drikke}{34}{chapter.9}%
-\contentsline {section}{Hvordan man brygger}{34}{section*.57}%
-\contentsline {chapter}{\numberline {10}Opskrifter}{36}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Ingredienser}{37}{chapter.11}%
-\contentsline {section}{Generelle regler om Magi}{38}{section*.59}%
-\contentsline {subsection}{Magiens elve bud}{39}{subsection*.60}%
-\contentsline {subsection}{At kaste magi}{40}{subsection*.61}%
+\contentsline {chapter}{\numberline {1}Indledning}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Niveau 1}{3}{chapter.2}%
+\contentsline {section}{Evne beskrivelse}{3}{section*.3}%
+\contentsline {subsection}{Læse og skrive Elvisk}{3}{subsection*.4}%
+\contentsline {subsection}{Dyrenes Skikkelse Niv. 1}{4}{subsection*.6}%
+\contentsline {subsection}{Moders Kald}{4}{subsection*.7}%
+\contentsline {subsection}{Naturens magi Niv. 1}{4}{subsection*.8}%
+\contentsline {chapter}{\numberline {3}Niveau 2}{5}{chapter.3}%
+\contentsline {section}{Evne beskrivelse}{5}{section*.10}%
+\contentsline {subsection}{Dyrenes Skikkelse Niv. 2}{5}{subsection*.11}%
+\contentsline {subsection}{Naturens magi Niv. 2}{6}{subsection*.12}%
+\contentsline {subsection}{Skovens Balance Niv. 1}{6}{subsection*.13}%
+\contentsline {chapter}{\numberline {4}Niveau 3}{7}{chapter.4}%
+\contentsline {section}{Evne beskrivelse}{7}{section*.15}%
+\contentsline {subsection}{Dyrenes Skikkelse Niv. 3}{7}{subsection*.16}%
+\contentsline {subsection}{Læse og skrive Magisk}{8}{subsection*.17}%
+\contentsline {subsection}{Naturens Magi Niv. 3}{8}{subsection*.19}%
+\contentsline {subsection}{Skovens Balance Niv. 2}{8}{subsection*.20}%
+\contentsline {chapter}{\numberline {5}Niveau 4}{9}{chapter.5}%
+\contentsline {section}{Evne beskrivelse}{9}{section*.22}%
+\contentsline {subsection}{Dyrenes Skikkelse Niv. 4}{9}{subsection*.23}%
+\contentsline {subsection}{Jordens Vogter}{10}{subsection*.24}%
+\contentsline {subsection}{Naturens Magi Niv. 4}{10}{subsection*.25}%
+\contentsline {chapter}{\numberline {6}Magi}{11}{chapter.6}%
+\contentsline {section}{Generelle regler om Magi}{11}{section*.26}%
+\contentsline {subsection}{Magiens elve bud}{11}{subsection*.27}%
+\contentsline {subsection}{At kaste magi}{13}{subsection*.28}%
+\contentsline {section}{At kaste magi som Druide}{13}{section*.29}%
+\contentsline {section}{Magiske stier}{14}{section*.30}%
+\contentsline {chapter}{\numberline {7}Magier}{15}{chapter.7}%
+\contentsline {section}{Naturens Beskyttelse}{16}{section*.32}%
+\contentsline {section}{Naturens Lægemiddel}{18}{section*.33}%
+\contentsline {section}{Naturens Ly}{19}{section*.34}%
