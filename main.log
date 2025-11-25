@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.9.8)  24 NOV 2025 11:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.9.8)  25 NOV 2025 14:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1485,29 +1485,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--99
 
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 125--131
-
- []
-
-
 
 [25]
 Underfull \hbox (badness 10000) in paragraph at lines 137--147
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 137--147
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--159
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--159
 
  []
 
@@ -1521,13 +1501,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--209
  []
 
 
+
+[28]
 Underfull \hbox (badness 10000) in paragraph at lines 213--217
 
  []
 
 
-
-[28]
 Underfull \hbox (badness 10000) in paragraph at lines 221--225
 
  []
@@ -1557,7 +1537,7 @@ Here is how much of TeX's memory you used:
  1146 hyphenation exceptions out of 8191
  121i,17n,124p,931b,679s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (30 pages, 4513612 bytes).
+Output written on main.pdf (30 pages, 4513415 bytes).
 PDF statistics:
  775 PDF objects out of 1000 (max. 8388607)
  106 named destinations out of 1000 (max. 500000)
