@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1764078097.00636 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Druide-Regler/main.tex" "main.pdf" "main" 1764078101.92609 0
+["pdflatex"] 1764078165.33922 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Druide-Regler/main.tex" "main.pdf" "main" 1764078169.81636 0
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 1.tex" 1757917312 60 887729619453f26a0297a14b4adf473c ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 2.tex" 1757923889 60 c2db4f9e7b7f62de380bf240d1133100 ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 3.tex" 1757923972 60 419c8f69e089bddd631651038d7518e4 ""
@@ -294,12 +294,12 @@
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Druide-Regler/main.tex" 1763019658 1740 e077e10fa64baca2d6a284752762f39e ""
-  "main.aux" 1764078101 7163 bcf5b2eaf36f33a43e474d5f7acabab1 "pdflatex"
-  "main.out" 1764078101 7462 ebf99becf4b7cd7160567f0d68456aca "pdflatex"
+  "main.aux" 1764078169 7163 bcf5b2eaf36f33a43e474d5f7acabab1 "pdflatex"
+  "main.out" 1764078169 7462 ebf99becf4b7cd7160567f0d68456aca "pdflatex"
   "main.tex" 1763019658 1740 e077e10fa64baca2d6a284752762f39e ""
-  "main.toc" 1764078101 3514 15c8491ce39c45526fe6df514afcee26 "pdflatex"
+  "main.toc" 1764078169 3514 15c8491ce39c45526fe6df514afcee26 "pdflatex"
   "mainstuff/Indledning.tex" 1763020285 1110 b3e0039c28a170da1551b521ae68d352 ""
-  "mainstuff/Magi.tex" 1764078092 14816 b9a6c6917822505e62e9d4875040c6bb ""
+  "mainstuff/Magi.tex" 1764078163 14837 18a6afbca8a4fdf0236fc095eb2659f5 ""
   "mainstuff/Niv1.tex" 1763020311 1825 060c14291d4d6c3c18a3c871a9283d4c ""
   "mainstuff/Niv2.tex" 1763020853 2074 eaf3f3d7f086427935f1e65e00b160cc ""
   "mainstuff/Niv3.tex" 1763021790 2073 34c2adddcc7cb40759db6645a0cbb13b ""
