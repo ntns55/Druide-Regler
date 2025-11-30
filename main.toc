@@ -34,22 +34,23 @@
 \contentsline {subsection}{Læse og skrive}{14}{subsection*.35}%
 \contentsline {subsection}{Minearbejder}{15}{subsection*.36}%
 \contentsline {subsection}{Påfør gift}{15}{subsection*.37}%
-\contentsline {subsection}{Slagsbror Niv. 1}{15}{subsection*.38}%
-\contentsline {subsection}{Slagsbror Niv. 2}{15}{subsection*.39}%
-\contentsline {subsection}{Slagsbror Niv. 3}{16}{subsection*.40}%
-\contentsline {subsection}{Speciale}{16}{subsection*.41}%
-\contentsline {subsection}{Universets Centrum}{16}{subsection*.42}%
-\contentsline {subsection}{Universets Ydre}{16}{subsection*.43}%
-\contentsline {subsection}{Urtesamler}{16}{subsection*.44}%
+\contentsline {subsection}{Samler}{15}{subsection*.38}%
+\contentsline {subsection}{Slagsbror Niv. 1}{15}{subsection*.39}%
+\contentsline {subsection}{Slagsbror Niv. 2}{16}{subsection*.40}%
+\contentsline {subsection}{Slagsbror Niv. 3}{16}{subsection*.41}%
+\contentsline {subsection}{Speciale}{16}{subsection*.42}%
+\contentsline {subsection}{Universets Centrum}{16}{subsection*.43}%
+\contentsline {subsection}{Universets Ydre}{16}{subsection*.44}%
+\contentsline {subsection}{Urtesamler}{16}{subsection*.45}%
 \contentsline {chapter}{\numberline {7}Magi}{18}{chapter.7}%
-\contentsline {section}{Generelle regler om Magi}{18}{section*.45}%
-\contentsline {subsection}{Magiens elve bud}{18}{subsection*.46}%
-\contentsline {subsection}{At kaste magi}{20}{subsection*.47}%
-\contentsline {section}{At kaste magi som Druide}{20}{section*.48}%
-\contentsline {section}{Magiske stier}{21}{section*.49}%
+\contentsline {section}{Generelle regler om Magi}{18}{section*.46}%
+\contentsline {subsection}{Magiens elve bud}{18}{subsection*.47}%
+\contentsline {subsection}{At kaste magi}{20}{subsection*.48}%
+\contentsline {section}{At kaste magi som Druide}{20}{section*.49}%
+\contentsline {section}{Magiske stier}{21}{section*.50}%
 \contentsline {chapter}{\numberline {8}Magier}{22}{chapter.8}%
-\contentsline {section}{Naturens Beskyttelse}{22}{section*.51}%
-\contentsline {section}{Naturens Lægemiddel}{24}{section*.52}%
-\contentsline {section}{Naturens Ly}{25}{section*.53}%
-\contentsline {section}{Naturens Vrede}{27}{section*.54}%
-\contentsline {section}{Naturens Vogter}{28}{section*.55}%
+\contentsline {section}{Naturens Beskyttelse}{22}{section*.52}%
+\contentsline {section}{Naturens Lægemiddel}{24}{section*.53}%
+\contentsline {section}{Naturens Ly}{25}{section*.54}%
+\contentsline {section}{Naturens Vrede}{27}{section*.55}%
+\contentsline {section}{Naturens Vogter}{28}{section*.56}%
